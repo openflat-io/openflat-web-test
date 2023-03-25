@@ -9,7 +9,8 @@
     "build": "cross-env NODE_OPTIONS=\"--max-old-space-size=8192\" vite build",
     "build:cn": "cross-env FLAT_REGION=CN pnpm build",
     "build:us": "cross-env FLAT_REGION=US pnpm build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "deploy:gh-pages": "bash deploy.sh"
   },
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
