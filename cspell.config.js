@@ -174,6 +174,8 @@ module.exports = {
 
         // esbuild config
         "metafile",
+
+        "openflat",
     ],
     flagWords: ["fuck", "bitch", "asshole", "bullshit", "crap", "suck", "wtf"],
     dictionaries: [

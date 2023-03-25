@@ -3,7 +3,7 @@
 set -e
 
 # build
-yarn build
+pnpm -F flat-web build:cn -m production  
 
 # go to the target folder
 cd dist
