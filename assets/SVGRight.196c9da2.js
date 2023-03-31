@@ -1,0 +1,2 @@
+import{q as t}from"./index.43c4ffc0.js";const r=({active:o,className:s="",...e})=>t("svg",{className:`${s} flat-icon ${o?"is-active":""}`,fill:"none",height:"24",viewBox:"0 0 24 24",width:"24",xmlns:"http://www.w3.org/2000/svg",...e,children:t("path",{className:"flat-icon-stroke-color",d:"m10 8 2 2 2 2-2 2-2 2",stroke:"#5D6066",strokeLinejoin:"round",strokeWidth:"1.25"})});export{r as S};
+//# sourceMappingURL=SVGRight.196c9da2.js.map

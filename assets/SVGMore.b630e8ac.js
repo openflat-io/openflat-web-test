@@ -1,0 +1,2 @@
+import{q as l}from"./index.43c4ffc0.js";const s=({active:e,className:i="",...o})=>l("svg",{className:`${i} flat-icon ${e?"is-active":""}`,fill:"none",height:"24",viewBox:"0 0 24 24",width:"24",xmlns:"http://www.w3.org/2000/svg",...o,children:l("path",{className:"flat-icon-fill-color",clipRule:"evenodd",d:"M8 12a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm5 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm4 1a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z",fill:"#5D6066",fillRule:"evenodd"})});export{s as S};
+//# sourceMappingURL=SVGMore.b630e8ac.js.map

@@ -1,0 +1,2 @@
+import{aZ as e,q as t,c0 as a}from"./index.43c4ffc0.js";const n=({room:o})=>{const s=e();switch(o.roomStatus){case a.Started:case a.Paused:return t("span",{className:"room-status-started",children:s("room-status.running")});case a.Stopped:return t("span",{className:"room-status-stopped",children:s("room-status.stopped")});default:return t("span",{className:"room-status-idle",children:s("room-status.upcoming")})}};export{n as R};
+//# sourceMappingURL=index.3e1ebacc.js.map
